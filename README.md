@@ -2,7 +2,7 @@
 
 # 💻 設備需求
 
-| Computers     | Software needs to be pre-installed            |
+| Computers     | Pre-installed softwares            |
 | ---------- | ----------------------------------- |
 | Windows | Powershell without wsl |
 | Mac     | Iterm2 |
