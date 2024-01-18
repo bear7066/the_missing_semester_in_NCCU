@@ -1,7 +1,14 @@
 ## This is a winter cs camp held in National Chengchi University on 2024/1/31 ~ 2024/2/2.
 
+# 設備
+
+| OS      | Requirements           |
+| ---------- | ----------------------------------- |
+| windows |  |
+| MAC     |  |
+
    
-# 📘 新教材
+# 📘 講義
 
 ## 📅 第一天
 
