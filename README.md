@@ -1,11 +1,11 @@
 ## This is a winter cs camp held in National Chengchi University on 2024/1/31 ~ 2024/2/2.
 
-# 設備
+# 💻 設備需求
 
 | OS      | Requirements           |
 | ---------- | ----------------------------------- |
-| windows |  |
-| MAC     |  |
+| Windows | A brand new powershell without wsl |
+| Mac     | A brand new terminal using iterm |
 
    
 # 📘 講義
