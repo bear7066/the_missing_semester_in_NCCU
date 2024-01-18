@@ -2,10 +2,10 @@
 
 # 💻 設備需求
 
-| OS      | Requirements           |
+| Computers     | Software needs to be pre-installed            |
 | ---------- | ----------------------------------- |
-| Windows | A brand new powershell without wsl |
-| Mac     | A brand new terminal using iterm |
+| Windows | Powershell without wsl |
+| Mac     | Iterm2 |
 
    
 # 📘 講義
