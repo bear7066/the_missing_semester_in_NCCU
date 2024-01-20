@@ -4,7 +4,7 @@
 
 | Computers     | Pre-installed softwares            |
 | ---------- | ----------------------------------- |
-| Windows | Powershell without wsl |
+| Windows | Powershell or CMD |
 | Mac     | Iterm2 |
 
    
