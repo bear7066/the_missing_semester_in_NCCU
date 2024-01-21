@@ -7,6 +7,7 @@
 | Windows | Powershell or CMD |
 | Mac     | Iterm2 |
 
+# 📣 [營期Schedule](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZhMZ6HjQMVGupI8I3ZCp3ac/edit)
    
 # 📘 講義
 
