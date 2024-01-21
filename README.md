@@ -40,8 +40,12 @@ sh install.sh
 
 ---
 Unix 活動
+- 
+- 
 Arduino 活動
-- **教材**: [教材](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
+- **教材**: [Arduino教材](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
 - **實驗連結**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
+---
+
 ## 📅 第三天
 
