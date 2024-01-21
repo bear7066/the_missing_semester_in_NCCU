@@ -52,3 +52,9 @@ sh install.sh
 
 ## 📅 第三天
 
+---
+### 程式基礎教學
+- Class of C++ beginner
+- Class of C++ advancer
+---
+###
