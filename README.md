@@ -11,9 +11,9 @@
    
 # 📘 講義
 
-## 📅 第一天
+## 📅 第一天「人與電腦的協作、Unix commands and Shell Script」
 
-### 📎 [課程連結](https://docs.google.com/presentation/d/1mMqcRotUqBH4X1Jyjz_BD4xcPibSxdonCQ933J3eQd8/edit#slide=id.p)
+### 📎 [人與電腦的協作](https://docs.google.com/presentation/d/1mMqcRotUqBH4X1Jyjz_BD4xcPibSxdonCQ933J3eQd8/edit#slide=id.p)
 
 ---
 
@@ -37,6 +37,12 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 sh install.sh
 
 ```
+
+---
+### 📎 [Unix commands and Shell Script](https://docs.google.com/presentation/d/1YRBZKGa1_AAeFP3S0171CFxb6Lw4z8y-LCtc92ia6Lo/edit#slide=id.g240d27f0874_0_5)
+
+---
+
 ## 📅 第二天
 
 ---
