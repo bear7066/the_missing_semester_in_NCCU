@@ -41,9 +41,14 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   sh install.sh
   ```
 
-#### 📎 Unix commands and Shell Script
+#### 📎 Unix commands tutorial
 
 - Slide's link [here](https://docs.google.com/presentation/d/1YRBZKGa1_AAeFP3S0171CFxb6Lw4z8y-LCtc92ia6Lo/edit#slide=id.g240d27f0874_0_5)
+- Practice1, 2, 3
+
+  ```shell
+  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
+  ```
 
 ### 📅 第二天
 
