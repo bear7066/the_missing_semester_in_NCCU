@@ -50,6 +50,14 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
   ```
 
+  ```shell
+  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice2
+  ```
+  
+  ```shell
+  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice3
+  ```
+
 ### 📅 第二天
 
 #### 📎 Nvim
