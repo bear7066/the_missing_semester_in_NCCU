@@ -74,6 +74,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 - **教材**: [Arduino教材](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
 - **實驗連結**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
+- **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
 
 ### 📅 第三天
 
