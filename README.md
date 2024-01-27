@@ -81,5 +81,5 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 #### 📎 程式基礎教學
 
-- Class of C++ beginner
+- Class of C++ beginner:[slide](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
 - Class of C++ advancer
