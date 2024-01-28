@@ -1,6 +1,6 @@
 # Winter CS Camp
 
-This is a winter cs camp held in National Chengchi University on 2024/1/31 ~ 2024/2/2.
+This is a winter cs camp held in National Chengchi University on 2024/1/31 ~ 2024/2/2. The main purpose is to let the students who are interested in computer science know about what you should have to learn before you choose computer science as your major.
 
 ## 💻 設備需求
 
