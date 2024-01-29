@@ -93,6 +93,9 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 #### 📎 The developing activity
 
+- [Test](https://github.com/jingxiang0405/TMS_UNO/blob/main/uno_server.cpp)
+
+- [Answer](https://github.com/jingxiang0405/UNO/blob/master/uno_server.cpp)
 
 
 
