@@ -70,6 +70,8 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
 
 #### 📎 Unix 
+- **題目**: [題目](https://docs.google.com/presentation/d/11X-BsQINUYfC2JZ9qbCoBqz-KW36t8xTEylN-FRYuOo/edit#slide=id.g266f4431181_1_81)
+- **答案**: [題庫、解答](https://docs.google.com/document/d/1sMZEBn2Qg8LISZ5MUuiZdWSQnQkc5WfAIBsZFw_o4As/edit)
 
 #### 📎 Arduino
 
