@@ -50,17 +50,16 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
   ```
 
+#### 📎 Vscode - 1
 
-#### 📎 Vscode -1
-
-- Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
+- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
 
 ### 📅 第二天
 
-#### 📎 Vscode -2 and NVIM
+#### 📎 Vscode - 2 and NVIM
 
+- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
 - Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
-
 
 #### 📎 程式基礎教學
 
@@ -69,7 +68,8 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 - Class of C++ advancer
   - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
 
-#### 📎 Unix 
+#### 📎 Unix
+
 - **Bingo**: [題目](https://docs.google.com/presentation/d/11X-BsQINUYfC2JZ9qbCoBqz-KW36t8xTEylN-FRYuOo/edit#slide=id.g266f4431181_1_81)
 - **Answer**: [題庫、解答](https://docs.google.com/document/d/1sMZEBn2Qg8LISZ5MUuiZdWSQnQkc5WfAIBsZFw_o4As/edit)
 
@@ -79,12 +79,9 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 - **實驗連結**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
 - **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
 
-
 #### 📎 Git & GitHub - 1
 
 - Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
-
-
 
 ### 📅 第三天
 
@@ -92,14 +89,8 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 - Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
 
-
 #### 📎 The developing activity
 
 - [Test](https://github.com/jingxiang0405/TMS_UNO/blob/main/uno_server.cpp)
 
 - [Answer](https://github.com/jingxiang0405/UNO/blob/master/uno_server.cpp)
-
-
-
-
-
