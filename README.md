@@ -58,17 +58,25 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice3
   ```
 
+#### 📎 Nvim
+
+- Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
+
 ### 📅 第二天
 
 #### 📎 Nvim
 
 - Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
 
-#### 📎 Git & GitHub
 
-- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
+#### 📎 程式基礎教學
 
-#### 📎 Unix
+- Class of C++ beginner
+  - Slide [here](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
+- Class of C++ advancer
+  - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
+
+#### 📎 Unix 
 
 #### 📎 Arduino
 
@@ -77,11 +85,23 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 - **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
 
 
+#### 📎 Git & GitHub - 1
+
+- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
+
+
+
 ### 📅 第三天
 
-#### 📎 程式基礎教學
+#### 📎 Git & GitHub -2
 
-- Class of C++ beginner
-  - Slide [here](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
-- Class of C++ advancer
-  - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
+- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
+
+
+#### 📎 The developing activity
+
+
+
+
+
+
