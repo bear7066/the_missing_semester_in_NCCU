@@ -50,21 +50,14 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
   ```
 
-  ```shell
-  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice2
-  ```
-  
-  ```shell
-  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice3
-  ```
 
-#### 📎 Nvim
+#### 📎 Vscode -1
 
 - Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
 
 ### 📅 第二天
 
-#### 📎 Nvim
+#### 📎 Vscode -2 and NVIM
 
 - Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
 
