@@ -26,7 +26,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   - **字型下載**: [MesloLGS NF Regular](https://www.google.com/url?q=https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%2520NF%2520Regular.ttf&sa=D&source=editors&ust=1704195459976407&usg=AOvVaw1ZqnwQ0ZB2yCDr8pLKZ51D)
   - **Iterm2**: [下載連結](https://iterm2.com)
   - **Brew**: [下載連結](https://brew.sh)
-
+  - **design**: [design](https://docs.google.com/presentation/d/1J00pZKbBaOKDHzkV1Po2_8TR-UH2g9LGiZ8Ypbvfn7o/edit#slide=id.p)
 - 安裝 Oh-my-zsh
 
   ```shell
