@@ -26,8 +26,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   - **字型下載**: [MesloLGS NF Regular](https://www.google.com/url?q=https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%2520NF%2520Regular.ttf&sa=D&source=editors&ust=1704195459976407&usg=AOvVaw1ZqnwQ0ZB2yCDr8pLKZ51D)
   - **Iterm2**: [下載連結](https://iterm2.com)
   - **Brew**: [下載連結](https://brew.sh)
-  - **design_paper**: [設計圖](https://docs.google.com/presentation/d/1J00pZKbBaOKDHzkV1Po2_8TR-UH2g9LGiZ8Ypbvfn7o/edit#slide=id.p)
-  - **upload**:[上傳設計圖](https://docs.google.com/presentation/d/19UVVNFsg4vdvqkoa3aU9ZaJx5RfCF5RlEOnXATT9eso/edit#slide=id.p)
+  - **upload**: [上傳設計圖](https://docs.google.com/presentation/d/19UVVNFsg4vdvqkoa3aU9ZaJx5RfCF5RlEOnXATT9eso/edit#slide=id.p)
 - 安裝 Oh-my-zsh
 
   ```shell
@@ -41,57 +40,3 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
   sh install.sh
   ```
-
-#### 📎 Unix commands tutorial
-
-- Slide's link [here](https://www.canva.com/design/DAF7PqK4W1U/CqISUGn-D7JJNauk1v2lQA/view?utm_content=DAF7PqK4W1U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Practice1
-
-  ```shell
-  git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
-  ```
-
-#### 📎 Vscode - 1
-
-- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
-
-### 📅 第二天
-
-#### 📎 Vscode - 2 and NVIM
-
-- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
-- Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
-
-#### 📎 程式基礎教學
-
-- Class of C++ beginner
-  - Slide [here](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
-- Class of C++ advancer
-  - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
-
-#### 📎 Unix
-
-- **Bingo**: [題目](https://docs.google.com/presentation/d/11X-BsQINUYfC2JZ9qbCoBqz-KW36t8xTEylN-FRYuOo/edit#slide=id.g266f4431181_1_81)
-- **Answer**: [題庫、解答](https://docs.google.com/document/d/1sMZEBn2Qg8LISZ5MUuiZdWSQnQkc5WfAIBsZFw_o4As/edit)
-
-#### 📎 Arduino
-
-- **教材**: [Arduino教材](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
-- **實驗連結**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
-- **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
-
-#### 📎 Git & GitHub - 1
-
-- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
-
-### 📅 第三天
-
-#### 📎 Git & GitHub -2
-
-- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
-
-#### 📎 The developing activity
-
-- [Test](https://github.com/jingxiang0405/TMS_UNO/tree/main)
-
-- [Answer](https://github.com/jingxiang0405/UNO/blob/master/uno_server.cpp)
