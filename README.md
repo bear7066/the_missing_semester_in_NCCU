@@ -26,7 +26,8 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   - **字型下載**: [MesloLGS NF Regular](https://www.google.com/url?q=https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%2520NF%2520Regular.ttf&sa=D&source=editors&ust=1704195459976407&usg=AOvVaw1ZqnwQ0ZB2yCDr8pLKZ51D)
   - **Iterm2**: [下載連結](https://iterm2.com)
   - **Brew**: [下載連結](https://brew.sh)
-  - **design**: [design](https://docs.google.com/presentation/d/1J00pZKbBaOKDHzkV1Po2_8TR-UH2g9LGiZ8Ypbvfn7o/edit#slide=id.p)
+  - **design_paper**: [設計圖](https://docs.google.com/presentation/d/1J00pZKbBaOKDHzkV1Po2_8TR-UH2g9LGiZ8Ypbvfn7o/edit#slide=id.p)
+  - **upload**:[上傳設計圖](https://docs.google.com/presentation/d/19UVVNFsg4vdvqkoa3aU9ZaJx5RfCF5RlEOnXATT9eso/edit#slide=id.p)
 - 安裝 Oh-my-zsh
 
   ```shell
@@ -44,7 +45,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 #### 📎 Unix commands tutorial
 
 - Slide's link [here](https://www.canva.com/design/DAF7PqK4W1U/CqISUGn-D7JJNauk1v2lQA/view?utm_content=DAF7PqK4W1U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- Practice1, 2, 3
+- Practice1
 
   ```shell
   git clone -n https://github.com/bear7066/unix_practice --no-checkout Practice1
