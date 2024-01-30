@@ -43,7 +43,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 #### 📎 Unix commands tutorial
 
-- Slide's link [here](https://docs.google.com/presentation/d/1YRBZKGa1_AAeFP3S0171CFxb6Lw4z8y-LCtc92ia6Lo/edit#slide=id.g240d27f0874_0_5)
+- Slide's link [here]([https://docs.google.com/presentation/d/1YRBZKGa1_AAeFP3S0171CFxb6Lw4z8y-LCtc92ia6Lo/edit#slide=id.g240d27f0874_0_5](https://www.canva.com/design/DAF7PqK4W1U/CqISUGn-D7JJNauk1v2lQA/view?utm_content=DAF7PqK4W1U&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 - Practice1, 2, 3
 
   ```shell
