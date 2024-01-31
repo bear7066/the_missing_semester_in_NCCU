@@ -88,14 +88,17 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
       - [STL(標準模板庫)](https://jasonblog.github.io/note/c++/c++_stl_xue_xi_zong_7d5028_quan_976229.html)
       - [Template](https://www.geeksforgeeks.org/templates-cpp/)
   - OOP基本概念
-    - []()
-    - []()
-    - []()
-    - []()
-      - 課後自主學習資料/補充資料
-        - []()
-        - []()   
+    - [OOP_basic_constructor_Pokemon](https://onlinegdb.com/Ct_3Ta4Aa)
+    - [OOP_basic_car](https://www.onlinegdb.com/0o_y1dpZx)
+    - [OOP_inheritance__Pokemon](https://onlinegdb.com/ZSZ1vwRG2)
+    - [OOP_inheritance實作3](https://onlinegdb.com/Bo833FsMk)
+    - 課後自主學習資料/補充資料
+      - [多型(overridding、overloading)](https://ithelp.ithome.com.tw/articles/10304440)
+      - [多型(Virtual function 虛擬函數)](https://ithelp.ithome.com.tw/articles/10306623)   
   - Makefile
-
+    - [Final實作大禮包](https://drive.google.com/drive/folders/1iU_ZavO7QyWZoYe6DeDwhSzf6sTEyIia?usp=sharing)
+    - 課後自主學習資料/補充資料
+      - [例外狀況處理(try/throw/catch)](http://kaiching.org/pydoing/cpp/cpp-try.html)
+      - [CMake](https://ithelp.ithome.com.tw/articles/10221101) 
 
 
