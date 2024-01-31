@@ -65,16 +65,15 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 ### 📅 第二天
 
-#### 📎 Vscode - 2 and NVIM
+#### 📎 Vscode - 2 and text editor
 
-- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
-- Slide [here](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
+- Slide [Vscode](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
+- Slide [Nvim](https://docs.google.com/presentation/d/1xMphq9y7CBEhoEdZldoZYM4rqefK0IjYmwH_tjGol7I/edit?usp=sharing)
 
 #### 📎 程式基礎教學
 
 - Class of C++ beginner
   - Slide [here](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
-  - 
 - Class of C++ advancer
   - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
   - 語法概要
