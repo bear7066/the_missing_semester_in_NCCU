@@ -27,6 +27,15 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   - **Iterm2**: [下載連結](https://iterm2.com)
   - **Brew**: [下載連結](https://brew.sh)
   - **upload**: [上傳設計圖](https://docs.google.com/presentation/d/19UVVNFsg4vdvqkoa3aU9ZaJx5RfCF5RlEOnXATT9eso/edit#slide=id.p)
+
+- 開啟虛擬機設定
+  ```shell
+  Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+  Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
+  Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+  ```
+
 - 安裝 Oh-my-zsh
 
   ```shell
