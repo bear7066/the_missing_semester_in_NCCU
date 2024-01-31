@@ -101,4 +101,16 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
       - [例外狀況處理(try/throw/catch)](http://kaiching.org/pydoing/cpp/cpp-try.html)
       - [CMake](https://ithelp.ithome.com.tw/articles/10221101) 
 
+#### 📎 Unix Activity
 
+- **Bingo**: [題目](https://docs.google.com/presentation/d/11X-BsQINUYfC2JZ9qbCoBqz-KW36t8xTEylN-FRYuOo/edit#slide=id.g266f4431181_1_81)
+
+#### 📎 Arduino Acrivity
+
+- **教材**: [Arduino教材](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
+- **實驗連結**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
+- **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
+
+#### 📎 Git & GitHub - 1
+
+- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
