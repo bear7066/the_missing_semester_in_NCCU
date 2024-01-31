@@ -58,3 +58,8 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   ```shell
   git clone https://github.com/bear7066/unix_practice 
   ```
+
+  #### 📎 Vscode - 1
+
+- Slide [here](https://docs.google.com/presentation/d/1iSpYdzzZ-hl0GxLNo_U3k-Bx-ZFQynHTT3E1D7jZh2Y/edit?usp=sharing)
+
