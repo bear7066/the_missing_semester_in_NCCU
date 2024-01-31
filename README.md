@@ -74,7 +74,28 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 - Class of C++ beginner
   - Slide [here](https://docs.google.com/presentation/d/1Gsacjz0jBTtGtYkE2geQMWR2OqwW1TD9FZf3boeXvIU/edit?usp=sharing)
+  - 
 - Class of C++ advancer
   - Slide [here](https://docs.google.com/presentation/d/1T3sX-2wM_9wf5vsotUIlcCwE8o_RVlafrXun2KAesbE/edit?usp=sharing)
+  - 語法概要
+    - [I/O](https://onlinegdb.com/GFnvFYdjB)
+    - [迴圈](https://onlinegdb.com/qWroYH7C9)
+    - [實作1(回文練習)](https://onlinegdb.com/SDNab9UDBv) 
+  - 進階C++語法
+    - [Pointer(含pointer問答+實作2)](https://onlinegdb.com/cHwKXaL2J)
+    - [Vector](https://onlinegdb.com/ex5t0nSJM)
+    - 課後自主學習資料/補充資料
+      - [STL(標準模板庫)](https://jasonblog.github.io/note/c++/c++_stl_xue_xi_zong_7d5028_quan_976229.html)
+      - [Template](https://www.geeksforgeeks.org/templates-cpp/)
+  - OOP基本概念
+    - []()
+    - []()
+    - []()
+    - []()
+      - 課後自主學習資料/補充資料
+        - []()
+        - []()   
+  - Makefile
+
 
 
