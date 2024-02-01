@@ -115,3 +115,14 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 #### 📎 Git & GitHub - 1
 
 - Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
+
+### 📅 第三天
+
+#### 📎 Git & GitHub -2
+
+- Slide [here](https://docs.google.com/presentation/d/1onmmWZ8eNbfN1vRiuVRvFV95hl3bdJbnCdQ66WEKPL4/edit?usp=sharing)
+
+#### 📎 The Stud Poker
+
+#### 📎 The developing activity
+
