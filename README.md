@@ -106,7 +106,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 #### 📎 Arduino Acrivity
 
-- **實驗**: [請用此連結上傳實驗影片](https://drive.google.com/drive/u/1/folders/1ayW33uwaRaSwJXRh6a5LmEbAfS1bbK5c?fbclid=IwAR3AY3tlInAxxI7o7oarkYQXrOwnOEhPgkdlqAWzAuZnV-P94-ot1YmLOCk)
+- **Arduino綜合資料夾**: [雲端連結](https://drive.google.com/drive/u/1/folders/1ayW33uwaRaSwJXRh6a5LmEbAfS1bbK5c?fbclid=IwAR3AY3tlInAxxI7o7oarkYQXrOwnOEhPgkdlqAWzAuZnV-P94-ot1YmLOCk)
 - **上課簡報**: [Arduino簡報](https://docs.google.com/presentation/d/1r2SouD4yRVY8rZK-MRKEkypic7BFXzOjfjk8wlVeoig/edit?usp=sharing)
 - **實驗網址**: [CIRC](https://learn.adafruit.com/experimenters-guide-for-metro/intro)
 - **Arduino IDE**: [下載連結](https://www.arduino.cc/en/software)
