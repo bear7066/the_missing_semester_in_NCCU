@@ -126,6 +126,6 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 - slide [here](https://docs.google.com/presentation/d/1rXFqpYP0xvqW8GXyXMfmDdEARmQW1ITsfLu9BoSSEUQ/edit#slide=id.p)
   
-#### 📎 The developing activity
+#### 📎 The developing competition
 
 - slide [here](https://github.com/SpeedReach/Soha)
