@@ -128,3 +128,4 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
   
 #### 📎 The developing activity
 
+- slide [soha](https://github.com/SpeedReach/Soha)
