@@ -124,7 +124,7 @@ Schedule's link [here](https://docs.google.com/document/d/11QHqGS9etAwiPgg4OhzGZ
 
 #### 📎 The Stud Poker
 
-- slide [here](https://docs.google.com/presentation/d/1rXFqpYP0xvqW8GXyXMfmDdEARmQW1ITsfLu9BoSSEUQ/edit#slide=id.g175ac2732c0_0_55)
+- slide [here](https://docs.google.com/presentation/d/1rXFqpYP0xvqW8GXyXMfmDdEARmQW1ITsfLu9BoSSEUQ/edit#slide=id.p)
   
 #### 📎 The developing activity
 
